@@ -1,3 +1,5 @@
+from IA.burro import jogada
+
 # Representação do tabuleiro
 tabuleiro = [0] * 9  # Inicia com 0 (vazio) para cada posição
 
@@ -31,7 +33,7 @@ def verificar_vencedor():
 def obter_jogada(jogador):
   while True:
     try:
-      posicao = int(input(f"Jogador {jogador}, escolha uma posição (1-9): ")) - 1
+      posicao = int(input(f"Escolha uma posição (1-9): ")) - 1
       if 0 <= posicao <= 8 and tabuleiro[posicao] == 0:
         return posicao
       else:
@@ -47,7 +49,10 @@ while vencedor is None:
   posicao = obter_jogada(jogador_atual)
   tabuleiro[posicao] = jogador_atual
   vencedor = verificar_vencedor()
-  jogador_atual = -jogador_atual  # Alterna entre 1 e -1
+  jogador_atual = jogada(tabuleiro) 
+  tabuleiro[posicao] = jogador_atual
+  vencedor = verificar_vencedor()
+  jogador_atual = 1
 
 imprimir_tabuleiro()
 if vencedor == 1:
