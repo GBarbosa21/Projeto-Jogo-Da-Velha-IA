@@ -1,4 +1,4 @@
-from IA.burro import jogada
+from IA.burro import jogada_burro
 
 # Representação do tabuleiro
 tabuleiro = [0] * 9  # Inicia com 0 (vazio) para cada posição
@@ -41,15 +41,25 @@ def obter_jogada(jogador):
     except ValueError:
       print("Entrada inválida. Digite um número entre 1 e 9.")
 
+def verificar_validade(jogada):
+    if tabuleiro[jogada] == 0:
+      return 0
+    else:
+          return 1
+
 # Loop principal do jogo
-jogador_atual = 1  # Começa com o jogador 1
+jogador_atual = 1  # Começa com o jogador
+jogador_burro = -1
 vencedor = None
 while vencedor is None:
   imprimir_tabuleiro()
   posicao = obter_jogada(jogador_atual)
   tabuleiro[posicao] = jogador_atual
   vencedor = verificar_vencedor()
-  jogador_atual = jogada(tabuleiro) 
+  jogador_atual = jogador_burro
+  while(valido!=0):
+    posicao = jogada_burro()
+    valido = verificar_validade(posicao)
   tabuleiro[posicao] = jogador_atual
   vencedor = verificar_vencedor()
   jogador_atual = 1
