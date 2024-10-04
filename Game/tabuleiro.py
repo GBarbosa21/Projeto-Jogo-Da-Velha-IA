@@ -1,7 +1,9 @@
 from IA.burro import jogada_burro
 
 # Representação do tabuleiro
-tabuleiro = [0] * 9  # Inicia com 0 (vazio) para cada posição
+tabuleiro = [0] * 9  # Inicia com 0 (vazio) para cada posição 
+
+# 0 - jogadas / 1-9 - tabuleiro / 10 - vencedor (campeao) / 11 - velha / 12 - vitorias (burro)
 
 # Função para imprimir o tabuleiro
 def imprimir_tabuleiro():
