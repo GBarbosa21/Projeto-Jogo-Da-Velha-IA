@@ -676,6 +676,34 @@ def jogada_campeao(tabuleiro, vez, caminho):
             else:
                 return 8, caminho
 
+        if caminho == 86:
+            if tabuleiro[6]==0:
+                return 6, caminho
+            elif tabuleiro[1]==0:
+                return 1, caminho
+            elif tabuleiro[9]==0:
+                return 9, caminho
+            else:
+                return 3, caminho
+
+        if caminho == 87:
+            if tabuleiro[4]==0:
+                return 4, caminho
+            elif tabuleiro[3]==0:
+                return 3, caminho
+            elif tabuleiro[7]==0:
+                return 7, caminho
+            else:
+                return 1, caminho
+
+        if caminho == 88:
+            if tabuleiro[2]==0:
+                return 2, caminho
+            elif tabuleiro[1]==0:
+                return 1, caminho
+            else:
+                return 9, caminho
+
 #CAMINHOS DE SEGUNDO NIVEL>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
         if caminho == 10:
             if verificar_possibilidade_de_vencer(tabuleiro, 1)==10:
@@ -818,6 +846,7 @@ def jogada_campeao(tabuleiro, vez, caminho):
                 else:
                     caminho = 83
                     return 2, caminho
+
             else:
                 if verificar_possibilidade_de_vencer(tabuleiro, 1)==3:
                     caminho = 57
@@ -838,7 +867,19 @@ def jogada_campeao(tabuleiro, vez, caminho):
                     else:
                         caminho = 61
                         return 6, caminho
-                    
+
+                elif tabuleiro[7]==1:
+                    if tabuleiro[2]==1:
+                        caminho = 86
+                        return 4, caminho
+                    else:
+                        caminho = 88
+                        return 8, caminho
+
+                elif tabuleiro[9]==1:
+                    caminho = 87
+                    return 6, caminho
+
                 elif verificar_possibilidade_de_vencer(tabuleiro, 1)==4:
                     if tabuleiro[7]==1:
                         caminho = 62
