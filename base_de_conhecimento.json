@@ -1,0 +1,4182 @@
+{
+  "000000000": [
+    {
+      "jogada": 5,
+      "ranking": 0
+    }
+  ],
+  "000010000": [
+    {
+      "jogada": 5,
+      "ranking": 200000
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "00001000-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "00001001-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-1001001-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "0-1001101-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0-1-101101-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-1-111101-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-100010000": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-101010000": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-101010-100": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-101010-110": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-10101-1-110": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-10111-1-110": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-10111-1-11-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-11111-1-11-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-10001001-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-11001001-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-1010100-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1011100-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-1011100-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1011101-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0000100-10": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "0010100-10": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "001010-1-10": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "101010-1-10": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "1-11010-1-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "1-11011-1-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-11-111-1-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-11-111-1-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-10010000": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "0-10011000": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "0-1001100-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0-1001110-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-1-101110-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-1-101110-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "1-1-10111-1-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "1-1-11111-1-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1-11010000": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-1-11011000": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-1-1101100-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1-1111100-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-1-1011000": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "0-1-1011010": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-10011-100": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-10011-101": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-10011-1-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-10011-1-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "000010-100": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "010010-100": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "010-110-100": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "110-110-100": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "110-110-1-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "110-110-1-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "00001-1000": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "00001-1010": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-10001-1010": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-10001-1011": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-10001-1-111": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-10101-1-111": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "000-110000": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "100-110000": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "100-11000-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "101-11000-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "101-11-100-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "101-11-110-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "00101-10-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "00111-10-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-10111-10-10": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-11111-10-10": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11111-1-1-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-11111-1-1-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "00111-1-1-10": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "01111-1-1-10": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "100-110-100": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "100-110-110": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "1-10-110-110": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "1-11-110-110": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-11-11-1-110": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-11-11-1-111": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "10-1-110000": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "10-1-110100": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "10-1-1101-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "10-1-1101-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-1-1001101-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1-1001111-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-1-10-11111-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-1-11-11111-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0-1-1011-110": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-1-1111-110": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-10-111000": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-10-111000": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "1-10-111-100": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "1-10-111-110": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-111-110": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-111-111": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "00001-1-110": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "01001-1-110": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "00-101001-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "00-111001-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-10-111001-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-10-111101-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "00-1010000": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "01-1010000": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "01-1-110000": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "01-1-110100": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-1-110100": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-1-111100": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-11-1-1111-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-11-1-1111-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0-10-11101-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "0-11-11101-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "0-11-111-11-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-11-111-11-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "010010-1-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "010011-1-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "010-111-1-10": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "011-111-1-10": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "0-1-1011-101": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-1-1011-101": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "-10101-1000": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-11101-1000": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11101-1-100": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-11101-1-101": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "10-1-11-1100": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "10-1-11-1110": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "00001-101-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "00101-101-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "001-11-101-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "001-11-111-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1-11010-110": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1-11110-110": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-1-11110-11-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-1-11111-11-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-10101-101-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-10111-101-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1-1111-101-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1-1111-111-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-101-110000": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-111-110000": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-111-11-1000": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-111-11-1010": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-110011-1-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-110111-1-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-110010-100": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-110010-101": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11001-1-101": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-11001-1-111": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-101110-1-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-101110-1-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-10111-1-1-11": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "001-1100-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "001-1110-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "001-111-1-10": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "100-11-1000": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "110-11-1000": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "110-11-10-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "110-11-10-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-100110-10": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "0-110110-10": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-11-1110-10": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0-11-1111-10": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-10-110000": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-10-110100": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "1-10-1101-10": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "1-11-1101-10": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "010010-10-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "010010-11-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "00111-10-1-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "10111-10-1-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "0-110100-10": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-110100-10": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "1-1101-10-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "1-1111-10-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-1111-1-1-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-1111-1-1-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-1-10011-101": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-1-10011-111": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "01-1010-100": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "01-1010-101": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "01-101-1-101": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "11-101-1-101": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "01-1-110-101": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "01-1-111-101": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "01-1-111-1-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "11-1-111-1-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "000010-11-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "001010-11-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "0-11010-11-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "0-11011-11-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1-11011-11-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11101-1-1-11": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-10-101-1011": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-10-111-1011": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-10-111-1-111": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-11-111-1-111": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-1-111100-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-1-111110-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11111-10-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-11111-11-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1-1111-1-110": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-1-1111-1-111": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "00-1110-11-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "10-1110-11-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "101-110-1-10": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "111-110-1-10": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "1-110100-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-110101-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-10101000-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-10101001-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-101010-11-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-101011-11-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-11011-1-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-11111-1-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11-1010-101": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-11-1010-111": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "0-100111-1-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-101111-1-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "01-10100-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "01-10100-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "01-1010-1-11": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "01-1110-1-11": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-1110-1-11": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-1111-1-11": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1-11-111000": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-1-11-111010": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1-11-11101-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "01-1-1101-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "01-1-1111-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-111-1100-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-111-1110-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-1-11011-100": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-1-11011-101": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "01-101000-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "01-101010-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "01-10101-1-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "01-11101-1-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-11101-1-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-11111-1-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-1001-1010": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0-1001-1110": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-10-11-1110": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "0-11-11-1110": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-1-10011000": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1-10011100": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "00-101-1010": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "00-101-1110": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-1-101-1110": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-1-101-1110": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "000-11001-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "000-11101-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-100-11101-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-110-11101-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "000-11-1010": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "001-11-1010": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-101-11-1010": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-1-1001110-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-110100": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-111100": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-11110-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-11111-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "01-101-1000": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "01-101-1001": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11-101-1001": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-11-101-1011": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-1-110110-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "11-1-110-100": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "11-1-110-101": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-10011-11-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-10111-11-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "10-1-11010-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "11-1-11010-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "101-110-10-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "101-110-11-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "101-11-1-11-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "111-11-1-11-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "01-1-11010-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "01-1-11110-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-11-1-11110-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-11-1-11111-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "1-10-11010-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "1-10-11011-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "1-10-11-111-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "1-11-11-111-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-11-1110": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-11-1111": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0010100-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0010101-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-11-1010000": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-11-1010001": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-1-110001": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-1-111001": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-11-1-1110-11": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "110-11-1-100": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "111-11-1-100": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-111-1110-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-111-1111-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-11-11000-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "1-11-11100-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-11-1110-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-11-1111-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "00101-1-11-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "00111-1-11-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "00-1-11101-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "00-1-11111-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-10-1-11111-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "00-1-11-1110": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "00-1-11-1111": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-11-101010-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-101110-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11-10111-1-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "100-11-1-110": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "101-11-1-110": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-1-1-111010": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0-1-1-111110": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-1-1-11111-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "0-10-11110-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "0-10-11111-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-10-1110-10": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-10-1111-10": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-1111-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-1111-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-110110-1-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-110110-1-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-11-10100-11": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-11-10110-11": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11-1011-1-11": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "100-110-11-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "110-110-11-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-100-11-1011": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-101-11-1011": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-101-1110-10": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-101-1111-10": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "01001-1-100": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "0-1-111001-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "0-1111-10-10": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-1111-10-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-1111-11-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-11101-10-10": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "11-1-1101-1-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "11-1-1111-1-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-10-11100-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "1-10-11101-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-11101-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "10101-1-1-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "10101-1-1-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "01-101-10-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "11-101-10-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "0-10-111-101": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-10-111-101": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "10-1-110-110": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "11-1-110-110": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "01-1-11-1001": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "01-1-11-1101": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-11-1-11-1101": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-11-1-11-1111": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "100-1100-10": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "110-1100-10": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "110-1100-1-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "111-1100-1-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "0-1101-101-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "0-1101-111-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "001-110-11-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "11-1-1100-10": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "11-1-1101-10": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-111-11000-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-111-11001-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-10-101-1110": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-10-111-1110": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "101-1100-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "101-1101-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "110-11-100-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "111-11-100-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-110010-1-11": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-110110-1-11": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "1-11-111-10-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "1-10-11-1100": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "1-10-11-1110": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-101-11001-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-101-11101-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "01-1-1100-11": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "01-1-1110-11": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-11011-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "11-1-11-1000": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "11-1-11-1001": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "01-111-1-1-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "11-111-1-1-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "000-111-11-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "100-111-11-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "10-1-111-11-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "11-1-111-11-1": [
+    {
+      "jogada": 2,
+      "ranking": 0
+    }
+  ],
+  "-1-1001-1110": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-1-1001-1111": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-1001-111-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "0-1011-111-1": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "001-11-1-110": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "001-11-1-111": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 2,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "0-11-11-1-111": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "0-1111-1-11-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "1-1111-1-11-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "01-1-1111-1-1": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "-1-100111-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-1-100111-11": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1-10-1111-11": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-1-11-1111-11": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "0-11-11-1010": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "0-11-11-1011": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "01-1-11-1100": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "01-1-11-11-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "11-1-11-11-11": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-10-111-11-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-11011-1-1-11": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "001-1110-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "001-1111-1-1": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-11-110-11-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-1-1001-1011": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1-1011-1011": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "11-1-11-11-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-1-1011-1-111": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "1-11-1100-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "1-11-1110-10": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1-1101001-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-1-1101101-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    },
+    {
+      "jogada": 7,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1-11110-1-11": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-1-11111-1-11": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "110-110-10-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-1-10-111100": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "-1-10-111101": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 8,
+      "ranking": 0
+    },
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "-1-11-11-1011": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "-1-11-11-1111": [
+    {
+      "jogada": 7,
+      "ranking": 0
+    }
+  ],
+  "1-1-1110-11-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "1-1-1111-11-1": [
+    {
+      "jogada": 6,
+      "ranking": 0
+    }
+  ],
+  "-1-1101-1-111": [
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-11101-100-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "-11101-101-1": [
+    {
+      "jogada": 8,
+      "ranking": 0
+    }
+  ],
+  "1-10-1111-1-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "01-1011-1-10": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    }
+  ],
+  "11-1011-1-10": [
+    {
+      "jogada": 1,
+      "ranking": 0
+    },
+    {
+      "jogada": 9,
+      "ranking": 0
+    },
+    {
+      "jogada": 4,
+      "ranking": 0
+    }
+  ],
+  "-1-1011-111-1": [
+    {
+      "jogada": 3,
+      "ranking": 0
+    }
+  ],
+  "11-1-111-1-10": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-111000": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ],
+  "1-1-1-111001": [
+    {
+      "jogada": 9,
+      "ranking": 0
+    }
+  ]
+}
