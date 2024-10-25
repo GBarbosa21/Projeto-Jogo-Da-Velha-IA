@@ -11,3 +11,6 @@ Possibilidade de jogar contra cada um dos jogadores
 Interface de usuário simples e fácil de usar
 Possibilidade de salvar e carregar jogos
 Análise de desempenho dos jogadores, apresentando estatísticas e gráficos
+
+Tempo total para 100000 partidas: 0.5661 segundos
+Velocidade média: 176638.64 partidas por segundo
