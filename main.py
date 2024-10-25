@@ -142,7 +142,7 @@ for _ in range(100000):
             tabuleiro[posicao] = Intel
             tabuleiro[0] += 1  # Contador de jogadas
             # Atualiza o ranking para a jogada do jogador inteligente
-            atualizar_ranking(base_de_conhecimento, tabuleiro[1:10], posicao, 0)  # 0 para jogada neutra  # 0 para jogada neutra
+            atualizar_ranking(base_de_conhecimento, tabuleiro[1:10], posicao, 0)  # 0 para jogada neutra
 
         # print("\nTabuleiro após jogada do inteligente:")
         # imprimir_tabuleiro()  # Exibir o tabuleiro após a jogada do campeão
